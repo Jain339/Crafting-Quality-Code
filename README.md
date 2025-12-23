@@ -14,17 +14,6 @@ When the rats move through the maze:
 
 This project is fully console-based and also supports integration with a simple Tkinter GUI (`rat_race.py`) if you wish to extend it.
 
-## Table of Contents
-
-* [Project Structure](#project-structure)
-* [Game Rules](#game-rules)
-* [Classes and Methods](#classes-and-methods)
-* [How to Run](#how-to-run)
-* [Sample Maze](#sample-maze)
-* [Testing](#testing)
-* [Future Improvements](#future-improvements)
-* [License](#license)
-
 ## Project Structure
 
 The repository contains the following files:
